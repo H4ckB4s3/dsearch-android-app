@@ -30,8 +30,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-For questions or feedback, please open an issue on GitHub or contact the project maintainer at [your.email@example.com](mailto:your.email@example.com).
-
+For questions or feedback, please open an issue on GitHub.
 ---
 
 Enjoy using **Dsearch**!
