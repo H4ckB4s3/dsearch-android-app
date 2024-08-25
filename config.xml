@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="org.dsearch.app" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <name>Dsearch</name>
+    <description>Dsearch App</description>
+    <author email="dev@dsearch.org" href="https://dsearch.org">
+        Dsearch
+    </author>
+    <content src="index.html" />
+    <allow-intent href="http://*/*" />
+    <allow-intent href="https://*/*" />
+<platform name="android">
+    <!-- Icons -->
+    <icon src="res/android/icon-ldpi.png" density="ldpi" />
+    <icon src="res/android/icon-mdpi.png" density="mdpi" />
+    <icon src="res/android/icon-hdpi.png" density="hdpi" />
+    <icon src="res/android/icon-xhdpi.png" density="xhdpi" />
+    <icon src="res/android/icon-xxhdpi.png" density="xxhdpi" />
+    <icon src="res/android/icon-xxxhdpi.png" density="xxxhdpi" />
+    <icon src="res/android/icon-playstore.png" qualifier="playstore" /> <!-- Optional Play Store icon -->
+    <!-- Adaptive Icons -->
+    <icon src="res/android/icon-foreground-mdpi.png" density="mdpi" qualifier="foreground"/>
+    <icon src="res/android/icon-background-mdpi.png" density="mdpi" qualifier="background"/>
+    <icon src="res/android/icon-foreground-hdpi.png" density="hdpi" qualifier="foreground"/>
+    <icon src="res/android/icon-background-hdpi.png" density="hdpi" qualifier="background"/>
+    <icon src="res/android/icon-foreground-xhdpi.png" density="xhdpi" qualifier="foreground"/>
+    <icon src="res/android/icon-background-xhdpi.png" density="xhdpi" qualifier="background"/>
+    <icon src="res/android/icon-foreground-xxhdpi.png" density="xxhdpi" qualifier="foreground"/>
+    <icon src="res/android/icon-background-xxhdpi.png" density="xxhdpi" qualifier="background"/>
+    <icon src="res/android/icon-foreground-xxxhdpi.png" density="xxxhdpi" qualifier="foreground"/>
+    <icon src="res/android/icon-background-xxxhdpi.png" density="xxxhdpi" qualifier="background"/>
+    <preference name="KeyboardDisplayRequiresUserAction" value="false" />
+</platform>
+</widget>
